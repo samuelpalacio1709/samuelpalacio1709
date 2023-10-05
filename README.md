@@ -1,5 +1,5 @@
 ## Hey there!
-I am a software developer based in Colombia. I studied Engineering in Design of Digital entertainment where I found a passion for making cool stuff like videogames, web pages and XR experiences.
+I am a software developer based in Colombia. I studied Engineering in Design of Digital Entertainment where I found a passion for making cool stuff like videogames, web pages and XR experiences.
 
 
 ### I love working with these tech tools
